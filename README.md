@@ -60,7 +60,7 @@
 
 ---
 
-### 📌 **Recent Research & Publications (10 Publications) ** 
+### 📌 **Recent Research & Publications (10 Publications)** 
 📄 **Blockchain-Based Decentralized Application for Electric Vehicle Scheduling at Charging Station** (IEEE)  
 📄 **A Smart Contract & IPFS-Based Framework for Secure EV Synchronization at Charging Station** (ACM)  
 📄 **Blockchain-Based Energy Trading Scheme for EVs Coordination: A Smart Contract Approach** (Elsevier)  
