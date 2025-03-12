@@ -11,7 +11,7 @@
 ### 👩‍🎓 **About Me**
 - 🎓 **Master's Student in Computer Science** @ **Northeastern University** | **GPA: 4.00/4.00**
 - 🎓 **B.Tech in Computer Science & Engineering** @ **Nirma University** | **GPA: 4.00/4.00 (Top 2%)**
-- 💻 **Aspiring Software Developer** | Experienced in **Full Stack, Cloud, and AI-based applications**
+- 💻 **Aspiring Software Developer** | Experienced in **Full Stack, Cloud, Database Management Systems and AI-based applications**
 - 🏆 **Competitive Programmer** | Solving challenges on **LeetCode, GFG, CodeChef**
 - 🔗 **Blockchain & AI Researcher** | Published **10+ research papers (80+ citations)**
 - ☁️ **Cloud & Data Engineering Enthusiast** | AWS, Azure, Google Cloud, Snowflake
