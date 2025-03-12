@@ -60,7 +60,7 @@
 
 ---
 
-### 📌 **Recent Research & Publications**
+### 📌 **Recent Research & Publications (10 Publications) ** 
 📄 **Blockchain-Based Decentralized Application for Electric Vehicle Scheduling at Charging Station** (IEEE)  
 📄 **A Smart Contract & IPFS-Based Framework for Secure EV Synchronization at Charging Station** (ACM)  
 📄 **Blockchain-Based Energy Trading Scheme for EVs Coordination: A Smart Contract Approach** (Elsevier)  
@@ -69,8 +69,6 @@
 📄 **AI-Powered Emotion Recognition Framework for Emergency Helplines** (ACM)  
 📄 **A Taxonomy on Smart Healthcare Technologies: Security & Privacy Challenges** (Elsevier)  
 📄 **Explainable AI in Applicative Domains: Taxonomy & Open Challenges** (IEEE)  
-📄 **Decentralized Identity Verification using Blockchain & AI** (ACM)  
-📄 **Blockchain-Enabled Data Privacy in Cloud Storage** (Elsevier)  
 **📚 80+ citations on published research papers!**
 
 ---
