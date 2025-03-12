@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachi Chaudhary</h1>
-<h3 align="center">🚀 Software Engineer | Blockchain & AI Enthusiast | Cloud & Data Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | Blockchain & AI Enthusiast </h3>
 
 <p align="center">
   <a href="https://github.com/SachiChaudhary"><img src="https://img.shields.io/github/followers/SachiChaudhary?label=Follow&style=social" alt="GitHub Followers"></a>
