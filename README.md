@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | Blockchain & AI Enthusiast </h3>
 
 <p align="center">
-  <a href="https://github.com/SachiChaudhary"><img src="https://img.shields.io/github/followers/SachiChaudhary?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/SachiChaudhary"></a>
   <a href="https://linkedin.com/in/contactsachichaudhary"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
