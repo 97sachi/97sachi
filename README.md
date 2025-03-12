@@ -14,7 +14,6 @@
 - 💻 **Aspiring Software Developer** | Experienced in **Full Stack, Cloud, Database Management Systems and AI-based applications**
 - 🏆 **Competitive Programmer** | Solving challenges on **LeetCode, GFG, CodeChef**
 - 🔗 **Blockchain & AI Researcher** | Published **10+ research papers (80+ citations)**
-- ☁️ **Cloud & Data Engineering Enthusiast** | AWS, Azure, Google Cloud, Snowflake
 
 ---
 
